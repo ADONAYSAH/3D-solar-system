@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1748669831 source:c:\users\sahle\desktop\so\main.cpp
+	<GL/glut.h>
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<vector>
+
